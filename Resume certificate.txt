@@ -1,0 +1,92 @@
+Nitin Gavhane
+nitingavhane.bio.link
+ @NitinGavhane_ | nitin.softr.app|  @nitinsgavhane 
+
+-------------------------------------------------------------------------------------
+EDUCATION::::
+
+KJEI’s Trinity College of Engineering and Research
+Bachelor of Engineering in IT
+Cum. SGPA: 8.52 / 10
+May 2023 | Pune,India
+
+
+Government Polytechnic Pune
+Diploma in Information Technology
+Percentage: 73.87
+Jan 2020 | Pune,India
+
+
+Seth Lalji Narayanji Sarvajanik Vidyalaya
+SSC Percentage: 82.40% 
+Jan 2017 | Jalgaon, India
+
+------------------------------------------------------------------------------------------
+
+LINKS
+https://nitin.vercel.app/
+https://devfolio.co/@Nitingavhane
+https://www.linkedin.com/in/nitinsgavhane/
+Github: https://github.com/NitinGavhane
+LinkedIn: https://www.linkedin.com/in/nitinsgavhane/
+Twitter: https://twitter.com/NitinGavhane_
+
+-------------------------------------------------------------------------------------------
+
+COURSEWORK
+GRADUATE:
+Java Programming
+Web Apllication Devlopment
+Computer Network Security
+Cyber Security
+
+UNDERGRADUATE:
+Object Orianted Programing
+HTML + CSS
+Computer Graphics
+Web Testing
+MySQL
+-------------------------------------------------------------------------------------------
+
+SKILLS
+
+PROGRAMMING:
+• Android Application Development
+• Javascript • Java • CSS • MySQL 
+
+Testing:
+• Vulnerability Assessment • Penetration Testing • Android security (Static/dynamic analysis)
+
+-------------------------------------------------------------------------------------------
+
+EXPERIENCE
+➢ Cyber Security Penetration Tester | Secureise Pvt.Ltd 					(Dec'21 - Feb'22)
+Internship in Cyber Security, 
+Worked with Secureise team to Secure more companies web/android portals from critical vulnerabilities. 
+
+
+➢ Independent Security Researcher | Bugcrowd @Nitin_420, RDP/VDP, Bug bounty programs		(Mar'19 - Present) 
+
+ 
+➢ Tools Experience
+• Burp Suite •Sqlmap • Android Studio
+
+-------------------------------------------------------------------------------------------
+
+ACADEMIC PROJECTS:
+
+➢ TimeKeeper - Android based Time Management App			(may'2021)
+This Android application that can remind us of any event/Task we mark on it as a public event or private event.
+
+
+
+-------------------------------------------------------------------------------------------
+CERTIFICATES/RECOGINATIONS
+
+Certificate of Appreciation by-
+• Huawei • Hypernode • Silvergoldbull • Redwolf • Envato • Epik.com
+
+Hall of Fame by-
+• Mediatek • Telekom • Máxima MC • Electrorent • Launchkey • Visenze • Cloudways • Mastercard • Dell • Etsy
+• Hubspot • YNAB and More Than 100 +
+
